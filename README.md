@@ -7,20 +7,19 @@ This exercise illustrates how events happen on the DOM to bind code to user acti
 ## How to Run
 To get started running this project on your machine, you can download the repository as a directory onto your local drive. Run the index.html file on any source code editors (ie. VS Code) and preview your edits on HTML source viewer (ie. Google Chrome browser).
 
-This project includes 4 files:
-•	<b>index.html</b> which displays the html site where you can see the code demo-ed
-•	<b>eyes.js</b> which includes the javascript programmed to run the eyes elements to follow the mouse
-•	<b>styles.css</b> which includes the styling of each object (including the background, eye socket, eye ball and pupil)
-•	<b>pupils.js</b> a work-in-progress javascript for future improvements
+This project includes 4 files: <br>
+•	<b>index.html</b> which displays the html site where you can see the code demo-ed <br>
+•	<b>eyes.js</b> which includes the javascript programmed to run the eyes elements to follow the mouse <br>
+•	<b>styles.css</b> which includes the styling of each object (including the background, eye socket, eye ball and pupil) <br>
+•	<b>pupils.js</b> a work-in-progress javascript for future improvements <br>
 
 ## Roadmap for Future Improvements
-Future improvements for this project include:
-•	Customize elements further for a better narrative, such as:
-  -Format the background - ie. add rotating stripes to resemble a Cheshire cat
-  -Replace the moving mouse with an animated graphics - ie. cat teaser wand or a fly
-  -Add obstacles to avoid - ie. a tongue that captures the user's mouse if it is not moved too long
-  -Countdown to warn the user of their 'idleness'
-•	Create a functioning element called pupil that moves faster than the eyeballs to follow the position of the mouse
+•	Customize elements further for a better narrative, such as: <br>
+  -Format the background - ie. add rotating stripes to resemble a Cheshire cat <br>
+  -Replace the moving mouse with an animated graphics - ie. cat teaser wand or a fly <br>
+  -Add obstacles to avoid - ie. a tongue that captures the user's mouse if it is not moved too long <br>
+  -Countdown to warn the user of their 'idleness' <br><br>
+•	Create a functioning element called pupil that moves faster than the eyeballs to follow the position of the mouse <br>
 
 ## Credit
 MIT x PRO Full Stack Engineer Course which provided the starter kit to code this exercise
