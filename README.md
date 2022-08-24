@@ -1,6 +1,7 @@
 # Wandering eyes (an MITxPRO Eye Exercise)
 ## Project Title: ``Wandering Eyes``
-## Description: ``Wandering eyes`` is an interactive project is an assignment created by the MIT x PRO Full Stack MERN course. 
+## Description: 
+``Wandering eyes`` is an interactive project is an assignment created by the MIT x PRO Full Stack MERN course. 
 This exercise illustrates how events happen on the DOM to bind code to user actions. Using a combination of HTML, Javascript and CSS, the "eye" element built on the page follows the movement of the user's mouse. 
 
 ## How to Run
